@@ -1,2 +1,1 @@
-# hoc-git
-vi du kho chua
+# Huong dan Git co ban
